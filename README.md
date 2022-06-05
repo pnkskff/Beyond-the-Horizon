@@ -28,7 +28,7 @@ III. OPTIMIZATION:
   
   4. Modify JS and Fetch to enable Video Display, not just Image Display.
 
-IV: FURTHER INFO:
+IV. FURTHER INFO:
 
   1. Readme last updated on: JUNE 2022
 
