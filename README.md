@@ -1,7 +1,5 @@
 # Beyond the Horizon
 
-Readme last updated on: JUNE 2022
-
 I. INTRO: 
 
   1. Beyond the Horizon Site: https://beyondthehorizon.netlify.app/
