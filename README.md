@@ -4,7 +4,7 @@ I. INTRO:
 
   1. Beyond the Horizon Site: https://beyondthehorizon.netlify.app/
 
-  2. This is an App that pulls an Astronomy Pic of the Day from NASA's Archives, App then displays:
+  2. This is an App that pulls an Astronomy Pic of the Day (APOD) from NASA's Archives, App then displays:
   
      a. Astronomy Pic of the Day (APOD).
      
