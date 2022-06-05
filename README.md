@@ -15,6 +15,8 @@ II. NOTES:
   1. Built with HTML/CSS/JS/API.
   
   2. NASA API: https://api.nasa.gov/
+  
+  3. As a Freelance Website and Web App Developer, I was able to license this App to a Private Tutor for 12 months use.
 
 III. OPTIMIZATION:
 
